@@ -145,7 +145,7 @@ body {
   border-radius: 2px;
   background-color: var(--accent-color);
   display: block;
-  bottom: 0px;
+  bottom: -1px;
 }
 
 .section {
@@ -347,6 +347,7 @@ body {
 .social-item {
   width: 44px;
   height: 44px;
+ 
 }
 .social-list {
   display: flex;
